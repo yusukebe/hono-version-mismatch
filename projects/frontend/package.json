@@ -1,0 +1,8 @@
+{
+  "name": "frontend",
+  "type": "module",
+  "dependencies": {
+    "app": "*",
+    "hono": "4.6.14"
+  }
+}
